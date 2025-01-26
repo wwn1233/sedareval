@@ -1,0 +1,19 @@
+# name: str
+#     model_name: str
+#     endpoints: default to null
+#         - api_base: str
+#           api_key: str
+#           api_version: str optional (only for azure)
+#     api_type: str
+#     tokenizer: str optional (to optimize token limits)
+#     parallel: int
+#     system_prompt: str optional (add system instruction when generating model answer)
+
+TEMPLATE:
+    model_name: TEMPLATE
+    endpoints:
+        - api_base: http://0.0.0.0:8000/v1
+          api_key: 0
+    api_type: openai
+    parallel: 8
+    system_prompt: You are a helpful assitant.

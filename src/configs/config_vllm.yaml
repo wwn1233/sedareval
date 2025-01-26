@@ -1,0 +1,10 @@
+gpt:
+  model: sedareval
+  api_key: 0
+  api_base: http://0.0.0.0:8000/v1
+  temperature: 0.5
+  top_p: 0.9
+  max_tokens: 1024  
+  vote_times: 1
+
+batch: 221

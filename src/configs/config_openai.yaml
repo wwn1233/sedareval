@@ -1,0 +1,11 @@
+gpt:
+  model: gpt4o
+  api_key: demo_api_1
+  api_base: http://***/eval/v1
+  temperature: 0.9
+  top_p: 0.7
+  max_tokens: 1024
+  vote_times: 1
+
+
+batch: 221
