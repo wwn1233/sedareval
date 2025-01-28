@@ -12,7 +12,7 @@ The evaluation paradigm of LLM-as-judge gains popularity due to its significant 
 
 ![Overall](assets/pipeline.png)
 
-For a full description of SedarEval, please refer to the paper: [SedarEval](https://aclanthology.org/2024.findings-emnlp.984.pdf)
+For a full description of SedarEval, please refer to the paper: [SedarEval](https://arxiv.org/abs/2501.15595)
 
 ## Dataset
 
