@@ -129,12 +129,11 @@ incoming...
 ## 👏 Citation
 
 ```
-@inproceedings{fan2024sedareval,
+@article{fan2025sedareval,
   title={SedarEval: Automated Evaluation using Self-Adaptive Rubrics},
-  author={Zhiyuan, Fan and Weinong, Wang and Xing, W and Debing, Zhang},
-  booktitle={EMNLP 2024},
-  pages={16916--16930},
-  year={2024}
+  author={Fan, Zhiyuan and Wang, Weinong and Wu, Xing and Zhang, Debing},
+  journal={arXiv preprint arXiv:2501.15595},
+  year={2025}
 }
 ```
 
